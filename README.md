@@ -1,0 +1,1 @@
+Designed an online retail database using MySQL involving 5 relational tables. Developed 15+ SQL queries utilizing joins, subqueries, CTEs, aggregate functions, views, and window functions to generate monthly revenue reports, customer insights, and product performance analysis.
